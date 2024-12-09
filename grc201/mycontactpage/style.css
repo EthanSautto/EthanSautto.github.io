@@ -64,9 +64,9 @@ nav ul li a {
 	padding: .4em .5em .3em;
 	}
 
-nav ul li.selected a {
-	background-color: rgb(11, 98, 220);
-	color: rgb(255, 255, 255);
+nav ul li a:hover {
+	background-color: rgb(78, 79, 79);
+	color: rgb(0, 0, 0);
 	padding: .4em .5em .3em;
 }
 
