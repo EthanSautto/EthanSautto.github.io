@@ -150,7 +150,7 @@ p.address {
 	color: rgb(255, 255, 255);
 	margin: .125em !important;
 	font-family: sans-serif;
-	
+	margin-top: 1em;
 	}
 
 p.address-contact {
